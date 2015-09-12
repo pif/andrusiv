@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>::p!F::home::</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=win-1251" />
+	<meta http-equiv="Content-Language" content="ua" /> 	
+	<style type="text/css">
+	<!--
+	div {
+		position:absolute;
+	}
+	img {
+		border:0px;
+	}
+	a img {
+	filter:alpha(opacity=50);
+	opacity: 0.5;}
+	
+	a:hover img {
+	filter:alpha(opacity=100);
+	opacity: 1.0;
+	}
+	-->	
+	</style>
+</head>
+<body>
+<div id="mail" style="top:80px;left:136px;"><a href="mailto:pifostap@gmail.com"><img src="img/gmail.gif" alt="Gmail" /></a></div><div id="icq" style="top:349px;left:402px;"><a href="http://icq.com/442857873/"><img src="img/icq.gif" alt="ICQ" /></a></div><div id="lastfm" style="top:157px;left:574px;"><a href="http://last.fm/user/petafact/"><img src="img/lastfm.gif" alt="Last:fm" /></a></div><div id="mimvi" style="top:30px;left:199px;"><a href="http://pif.miranda-vi.org/"><img src="img/mim.gif" alt="Miranda IM Version Information" /></a></div><div id="picasa" style="top:80px;left:520px;"><a href="http://picasaweb.google.com/pifostap"><img src="img/picasa.gif" alt="Picasa web-albums" /></a></div><div id="skype" style="top:255px;left:114px;"><a href="callto://pif_ua/"><img src="img/skype.gif" alt="Skype" /></a></div><div id="vkont" style="top:420px;left:136px;"><a href="http://vkontakte.ru/id5814641"><img src="img/vkont.gif" alt="Вконтакті" /></a></div><div id="wp" style="top:243px;left:549px;"><a href="http://pifostap.org.ua/blog"><img src="img/wp.gif" alt="Мій блог" /></a></div>		
+	<!--EOMY-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2899555-1");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
