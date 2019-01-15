@@ -11,3 +11,5 @@ This is my personal website.
 2. Then run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
 3. Open it in your browser: `http://localhost:4000`
 4. Test your app with `bundle exec htmlproofer ./_site`
+
+
