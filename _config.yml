@@ -1,6 +1,6 @@
 # main text of home
 name: Ostap Andrusiv
-bio: Product Manager. Speaker. Conference Organizer.
+bio: Product Manager. Technical Leader. Conference Organizer.
 
 # twitter summary info
 description: My personal website
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://ua.linkedin.com/in/ostapandrusiv
 
-url: http://andrusiv.com/
+url: https://andrusiv.com/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
